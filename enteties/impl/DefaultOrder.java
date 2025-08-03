@@ -1,7 +1,7 @@
 package com.itbulls.learnit.javacore.oop.exam.templates.onlineshop.enteties.impl;
 
-import com.itbulls.learnit.javacore.oop.exam.onlineshop.enteties.Order;
-import com.itbulls.learnit.javacore.oop.exam.onlineshop.enteties.Product;
+import com.itbulls.learnit.javacore.oop.exam.templates.onlineshop.enteties.Order;
+import com.itbulls.learnit.javacore.oop.exam.templates.onlineshop.enteties.Product;
 
 public class DefaultOrder implements Order {
 

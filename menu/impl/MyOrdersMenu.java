@@ -1,9 +1,9 @@
 package com.itbulls.learnit.javacore.oop.exam.templates.onlineshop.menu.impl;
 
-import com.itbulls.learnit.javacore.oop.exam.onlineshop.configs.ApplicationContext;
-import com.itbulls.learnit.javacore.oop.exam.onlineshop.menu.Menu;
-import com.itbulls.learnit.javacore.oop.exam.onlineshop.services.OrderManagementService;
-import com.itbulls.learnit.javacore.oop.exam.onlineshop.services.impl.DefaultOrderManagementService;
+import com.itbulls.learnit.javacore.oop.exam.templates.onlineshop.configs.ApplicationContext;
+import com.itbulls.learnit.javacore.oop.exam.templates.onlineshop.menu.Menu;
+import com.itbulls.learnit.javacore.oop.exam.templates.onlineshop.services.OrderManagementService;
+import com.itbulls.learnit.javacore.oop.exam.templates.onlineshop.services.impl.DefaultOrderManagementService;
 
 public class MyOrdersMenu implements Menu {
 

@@ -1,7 +1,6 @@
 package com.itbulls.learnit.javacore.oop.exam.templates.onlineshop;
-
-import com.itbulls.learnit.javacore.oop.exam.onlineshop.menu.Menu;
-import com.itbulls.learnit.javacore.oop.exam.onlineshop.menu.impl.MainMenu;
+import com.itbulls.learnit.javacore.oop.exam.templates.onlineshop.menu.Menu;
+import com.itbulls.learnit.javacore.oop.exam.templates.onlineshop.menu.impl.MainMenu;
 
 public class Main {
 

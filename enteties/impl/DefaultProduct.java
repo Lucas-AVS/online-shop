@@ -1,6 +1,6 @@
 package com.itbulls.learnit.javacore.oop.exam.templates.onlineshop.enteties.impl;
 
-import com.itbulls.learnit.javacore.oop.exam.onlineshop.enteties.Product;
+import com.itbulls.learnit.javacore.oop.exam.templates.onlineshop.enteties.Product;
 
 public class DefaultProduct implements Product {
 	

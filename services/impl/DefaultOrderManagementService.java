@@ -1,7 +1,7 @@
 package com.itbulls.learnit.javacore.oop.exam.templates.onlineshop.services.impl;
 
-import com.itbulls.learnit.javacore.oop.exam.onlineshop.enteties.Order;
-import com.itbulls.learnit.javacore.oop.exam.onlineshop.services.OrderManagementService;
+import com.itbulls.learnit.javacore.oop.exam.templates.onlineshop.enteties.Order;
+import com.itbulls.learnit.javacore.oop.exam.templates.onlineshop.services.OrderManagementService;
 
 public class DefaultOrderManagementService implements OrderManagementService {
 

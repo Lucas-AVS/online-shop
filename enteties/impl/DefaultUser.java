@@ -1,6 +1,6 @@
 package com.itbulls.learnit.javacore.oop.exam.templates.onlineshop.enteties.impl;
 
-import com.itbulls.learnit.javacore.oop.exam.onlineshop.enteties.User;
+import com.itbulls.learnit.javacore.oop.exam.templates.onlineshop.enteties.User;
 
 public class DefaultUser implements User {
 

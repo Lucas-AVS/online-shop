@@ -1,11 +1,10 @@
 package com.itbulls.learnit.javacore.oop.exam.templates.onlineshop.menu.impl;
 
-import com.itbulls.learnit.javacore.oop.exam.onlineshop.configs.ApplicationContext;
-import com.itbulls.learnit.javacore.oop.exam.onlineshop.menu.Menu;
-import com.itbulls.learnit.javacore.oop.exam.onlineshop.services.ProductManagementService;
-import com.itbulls.learnit.javacore.oop.exam.onlineshop.services.impl.DefaultProductManagementService;
+import com.itbulls.learnit.javacore.oop.exam.templates.onlineshop.configs.ApplicationContext;
+import com.itbulls.learnit.javacore.oop.exam.templates.onlineshop.services.ProductManagementService;
+import com.itbulls.learnit.javacore.oop.exam.templates.onlineshop.services.impl.DefaultProductManagementService;
 
-public class ProductCatalogMenu implements Menu {
+public class ProductCatalogMenu implements com.itbulls.learnit.javacore.oop.exam.templates.onlineshop.menu.Menu {
 
 	private static final String CHECKOUT_COMMAND = "checkout";
 	private ApplicationContext context;
